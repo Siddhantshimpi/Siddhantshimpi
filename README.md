@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Python and Java. 
 - 👯 I’m looking to collaborate on Python, mostly.
 - 🤔 I’m looking for help with Python, mostly.
-- 📫 How to reach me: siddhantshimpi1406@gmail.com (Personal) / siddhant.shimpi2021@vitstudent@ac.in (School)
+- 📫 How to reach me: siddhantshimpi1406@gmail.com (Personal) / siddhant.shimpi2021@vitstudent.ac.in (School)
 
 Catch you later!
