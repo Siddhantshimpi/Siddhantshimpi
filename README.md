@@ -1,10 +1,7 @@
-## Hi there, this is my first repo!
-### This one will mainly store all of my projects (mainly in Python). 
+# 🗒 Meeting Notes
 
-- 🔭 I’m currently a Physics Major at VIT, Vellore, India.
-- 🌱 I’m currently learning Python and Java. 
-- 👯 I’m looking to collaborate on Python, mostly.
-- 🤔 I’m looking for help with Python, mostly.
-- 📫 How to reach me: siddhantshimpi1406@gmail.com (Personal) / siddhant.shimpi2021@vitstudent.ac.in (School)
+Keep your company's or teams' meeting notes in one place. Indexable, searchable and deep-linkable (yes, that's a word).
 
-Catch you later!
+{% hint style="info" %}
+**Good to know:** GitBook is a great place to document your team's meetings, giving folks access to documentation from every meeting. This template is structured in a way that gives collaborative, open note-taking centre stage. There's no reason why you can't use it for private or personal meeting notes though!
+{% endhint %}
