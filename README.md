@@ -18,48 +18,27 @@
 
 <h2 align="left">🔗 Connect with me:</h2>
 
-<p>
 <a href = "https://www.linkedin.com/in/siddhant-shimpi-436962235"><img align="left" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href = "https://www.instagram.com/siddhant_1406"><img align="left" src="https://skillicons.dev/icons?i=instagram"/>
 <a href = "https://stackoverflow.com/users/20734578/siddhant-shimpi"><img align="left" src="https://skillicons.dev/icons?i=stackoverflow"/>
-</p>
 
-</br>
-</br>
+<br/><br/>
 
 <h2 align="left">🧠🛠️ Skills and Tools (in order of expertise):</h2>
 <p align="left"><img src="https://skillicons.dev/icons?i=md,latex,py,git,java,visualstudio,cpp,r,html,css,arduino,matlab&perline=6"></p>
 
-<p>
-<h2 align="left">📊 My GitHub Stats:</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Siddhantshimpi&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhantshimpi&theme=vision-friendly-dark&layout=donut&langs_count=8&card_width=320" />
-</a>
-</p>
+<h2 align="left" style="color:gold;">🏆 My Trophies:</h2>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Siddhantshimpi&theme=juicyfresh" />
 
-</br>
-</br>
+<br/>
 
 <h2 align="left">📊 My Repositories:</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Siddhantshimpi&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-3&theme=codeSTACKr)" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-4&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-5&theme=codeSTACKr)" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Siddhantshimpi&theme=codeSTACKr" width="425"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-3&theme=codeSTACKr" width="425">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-4&theme=codeSTACKr" width="425"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-5&theme=codeSTACKr" width="425">
+<br/>
 
-</br>
-</br>
-
-<h2 align="left" style="color:gold;">🏆 Trophies:</h2>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Siddhantshimpi&theme=juicyfresh" />
+<h2 align="left">📊 My GitHub Stats:</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Siddhantshimpi&show_icons=true&theme=highcontrast">
+<a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhantshimpi&theme=vision-friendly-dark&layout=donut&langs_count=8&card_width=320">
+<br/>
