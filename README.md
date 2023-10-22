@@ -27,7 +27,7 @@
 <h2 align="left">🧠🛠️ Skills and Tools (in order of expertise):</h2>
 <p align="left"><img src="https://skillicons.dev/icons?i=md,latex,py,git,java,visualstudio,cpp,r,html,css,arduino,matlab&perline=6"></p>
 
-[<img src="https://novatorem-git-main-siddhantshimpis-projects.vercel.app/api/spotify" alt="Siddhantshimpi Spotify Playing" width="350" />](https://open.spotify.com/user/ewujbqirxt1dcjr0gmwygoc5f)
+[![Spotify](https://novatorem-git-main-siddhantshimpis-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ewujbqirxt1dcjr0gmwygoc5f)
 
 <h2 align="left" style="color:gold;">🏆 My Trophies:</h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Siddhantshimpi&theme=juicyfresh" />
