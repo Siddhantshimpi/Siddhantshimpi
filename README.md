@@ -35,7 +35,7 @@
 <h2 align="left">📊 My Repositories:</h2>
 
 <a href="https://github.com/Siddhantshimpi/Siddhantshimpi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Siddhantshimpi&theme=codeSTACKr" width="425">
-<a href="https://github.com/Siddhantshimpi/Semester-4"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-4&theme=codeSTACKr" width="425"><a href="https://github.com/Siddhantshimpi/Semester-5"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhantshimpi&repo=Semester-5&theme=codeSTACKr" width="425">
+
 <br/>
 
 <h2 align="left">📊 My GitHub Stats:</h2>
