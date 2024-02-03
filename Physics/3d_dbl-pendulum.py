@@ -1,7 +1,7 @@
 import vpython, numpy as np
 from vpython import *
 
-x1, y1, z1, x2, y2, z2 = np.load(r'..\\Outputs\\3Dpen_data.npy')
+x1, y1, z1, x2, y2, z2 = np.load(r'Python-projects\Outputs\3Dpen_data.npy')
 
 ball1 = vpython.sphere(color = color.green, radius = 0.3,
                        make_trail = True, retain = 20)
