@@ -4,7 +4,7 @@ pygame.init()
 
 # CONSTANTS:
 
-WIDTH, HEIGHT = 800, 800
+WIDTH, HEIGHT = 1920, 1080
 win = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Gravitational Slingshot")
 
@@ -19,8 +19,8 @@ FPS = 120
 
 # BACKGROUND AND PLANET SIZES
 
-BG = pygame.transform.scale(pygame.image.load("Images\galaxy.jpg"), (WIDTH, HEIGHT))
-PLANET = pygame.transform.scale(pygame.image.load("Images\planet.jpg"), (PLANET_RADIUS * 2, PLANET_RADIUS * 2))
+BG = pygame.transform.scale(pygame.image.load("Python-projects\Images\galaxy.jpg"), (WIDTH, HEIGHT))
+PLANET = pygame.transform.scale(pygame.image.load("Python-projects\Images\planet.jpg"), (PLANET_RADIUS * 2, PLANET_RADIUS * 2))
 
 # COLORS
 

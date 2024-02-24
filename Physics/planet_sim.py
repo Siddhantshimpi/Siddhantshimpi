@@ -2,7 +2,7 @@ import pygame, numpy as np
 import math
 pygame.init()
 
-width, height = 800, 800
+width, height = 1920, 1080
 win = pygame.display.set_mode((width, height))
 pygame.display.set_caption('Trappist-1 Planet Simulation')
 

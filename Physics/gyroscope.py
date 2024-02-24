@@ -14,10 +14,10 @@ num_steps = 10000
 enclosure = box(pos = vector(0, 0, 0), size = vector(2, 2, 2), color = color.white, opacity = 0.1, wireframe = True)
 gyro_tracer = curve(color = color.green, radius = 0.01)
 serrated_disk = ring(pos = gyro.pos + gyro.axis, axis = gyro.axis, radius = 0.15, thickness = 0.02, color = color.white)
-#perp_line = cylinder(pos = vector(0, 0, 0), axis = vector(0, 1, 0), radius = 0.006, color = color.white) # FIGURE OUT LATER
+perp_line = cylinder(pos = vector(0, 0, 0), axis = vector(0, 1, 0), radius = 0.006, color = color.white) # FIGURE OUT LATER
 
 pivot_sphere = sphere(pos = gyro.pos, radius = 0.05, color = color.red)
-scene = canvas(title = 'Gyroscope Simulation', width = 900, height = 900, center = vector(0, 0, 0))
+scene = canvas(title = 'Gyroscope Simulation', width = 1920, height = 1080, center = vector(0, 0, 0))
 
 #scene.forward = vector(0, 0, -1)  
 #scene.up = vector(1, 1, 0)  # FIGURE OUT LATER
@@ -37,6 +37,7 @@ for step in range(num_steps):
 
     pivot_sphere.pos = gyro.pos
     gyro.rotate(angle = mag(ang_vel) * time_step, axis = norm(ang_vel), origin = vector(0, 0, 0))
+    
     gyro_tracer.append(pos = gyro.axis, color = color.green)
 
     serrated_disk.pos = gyro.pos + gyro.axis
