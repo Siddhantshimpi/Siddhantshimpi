@@ -6,8 +6,6 @@
 
 </br>
 
-- 🔭 I’m currently working on Quantum Computing, which you can discover for yourself, at [QC w/ Qiskit](https://github.com/Siddhantshimpi/Siddhantshimpi/tree/master/Qiskit)
-
 - 🌱 I’m currently learning **Python Data Analytics, LaTeX, Quantum Mechanics and Computational Physics**
 
 - ⚛️ Find my latest project on introductory Computational Physics and Mathematics, at [Siddhantshimpi](https://github.com/Siddhantshimpi/Siddhantshimpi/tree/master)
