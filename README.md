@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/Siddhantshimpi/Siddhantshimpi/assets/92200101/b3289899-345f-4ac1-ba22-3b98a1e427fe"/></h1>
 <h1 align="center">Hi 👋, I'm Siddhant Shimpi</h1>
-<h3 align="center">Aspiring Quantum-Computational Physicist, Integrated-Master of Physics at Vellore Institute of Technology, India</h3>
+<h3 align="center">Aspiring Particle Physicist and Quantum Computing Whizz, Bachelor of Physics at Vellore Institute of Technology, India</h3>
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=Siddhantshimpi&color=blueviolet"/></p>
 
@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Python Data Analytics, LaTeX, Quantum Mechanics and Computational Physics**
 
-- ⚛️ Find my latest project on introductory Computational Physics and Mathematics, at [Siddhantshimpi](https://github.com/Siddhantshimpi/Siddhantshimpi/tree/master)
+- ⚛️ Find my latest projects on introductory Computational Physics and Mathematics, at [Siddhantshimpi](https://github.com/Siddhantshimpi/Siddhantshimpi/tree/master)
+
+- 💻 Find my ongoing projects on the implementation of Quantum Computing in Python with the Qiskit package, at [Quantum Computing with Qiskit](https://github.com/Siddhantshimpi/Siddhantshimpi/Quantum Computing with Qiskit)
 
 - 📫 How to reach me: **sidddhant.shimpi2021@vitstudent.ac.in**
 
@@ -38,5 +40,5 @@
 
 <h2 align="left">📊 My GitHub Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Siddhantshimpi&show_icons=true&theme=highcontrast">
-<a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhantshimpi&theme=vision-friendly-dark&layout=donut&langs_count=8&card_width=320">
+<a href="https://github.com/anuraghazra/convoychat"><img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhantshimpi&theme=vision-friendly-dark&layout=donut&langs_count=8&card_width=320">
 <br/>
