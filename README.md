@@ -6,11 +6,11 @@
 
 </br>
 
-- 🌱 I’m currently learning **Python Data Analytics, LaTeX, Quantum Mechanics and Computational Physics**
+- 🌱 I’m currently learning **Python in Science and Math, LaTeX, Quantum Mechanics, and Computational Physics**
 
 - ⚛️ Find my latest projects on introductory Computational Physics and Mathematics, at [Siddhantshimpi](https://github.com/Siddhantshimpi/Siddhantshimpi/tree/master)
 
-- 💻 Find my ongoing projects on the implementation of Quantum Computing in Python with the Qiskit package, at [Quantum Computing with Qiskit](https://github.com/Siddhantshimpi/Siddhantshimpi/Quantum Computing with Qiskit)
+- 💻 Find my ongoing projects on the implementation of Quantum Computing in Python with the Qiskit package, at [Quantum Computing with Qiskit](https://github.com/Siddhantshimpi/Siddhantshimpi/tree/master/Quantum%20Computing%20with%20Qiskit)
 
 - 📫 How to reach me: **sidddhant.shimpi2021@vitstudent.ac.in**
 
