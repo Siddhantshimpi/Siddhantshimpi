@@ -1,0 +1,16 @@
+Collecting pyscf
+  Using cached pyscf-2.11.0.tar.gz (10.3 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy!=1.16,!=1.17,>=1.13 in c:\users\dell\appdata\local\programs\python\python312\lib\site-packages (from pyscf) (2.3.5)
+Requirement already satisfied: scipy>=1.6.0 in c:\users\dell\appdata\local\programs\python\python312\lib\site-packages (from pyscf) (1.15.3)
+Requirement already satisfied: h5py>=2.7 in c:\users\dell\appdata\local\programs\python\python312\lib\site-packages (from pyscf) (3.10.0)
+Requirement already satisfied: setuptools in c:\users\dell\appdata\local\programs\python\python312\lib\site-packages (from pyscf) (70.1.0)
+Building wheels for collected packages: pyscf
+  Building wheel for pyscf (pyproject.toml): started
+  Building wheel for pyscf (pyproject.toml): finished with status 'error'
+Failed to build pyscf
